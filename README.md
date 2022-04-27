@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about github
 - 🌱 I’m currently learning about sfmc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 msb0708/msb0708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
